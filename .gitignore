@@ -1,0 +1,7 @@
+.bsp
+.metals
+.mypy_cache
+.scala-build
+.vscode
+node_modules
+.codacyrc
