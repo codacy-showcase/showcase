@@ -1,7 +1,8 @@
 {
     "tools": [
         {
-            "name": "Semgrep"
+            "name": "Semgrep",
+"files": "stuff"
         }
     ]
 }
