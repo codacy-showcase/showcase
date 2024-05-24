@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no testt spedcified\" && exit 1"
   },
-  "author": "",
+  "author": "pals",
   "license": "ISC",
   "dependencies": {
     "eslint": "^9.3.0",
