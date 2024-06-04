@@ -1,1 +1,2 @@
 adafruit_api_token = "9zu9r6idf9c0tfcc4w26l66ij7visb8n"
+AWS_ACCESS_KEY_ID=AKIA0123456789ABCDEF
